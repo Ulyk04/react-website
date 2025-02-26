@@ -1,0 +1,25 @@
+body{
+    padding: 5%;
+    font-family: 'Cinzel' , serif;
+    background-color: #384d9b;
+    background-image: none;
+}
+.title-about{
+    width: 50%;
+    position: relative;
+    left: 50%;
+    color: aliceblue;
+}
+.title-about h1{
+    font-size: 600%;
+}
+.title-about p{
+    font-size: 300%;
+}
+.image-about{
+    margin-top: -40%;
+}
+.image-about img{
+    width: 30%;
+    border-radius: 10000% 10%;
+}

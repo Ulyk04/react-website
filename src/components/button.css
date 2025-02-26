@@ -1,0 +1,14 @@
+button{
+    padding: 1% 5%;
+    font-family: "Cinzel", serif;
+    font-size: 150%;
+    margin-top: 5%;
+    background-color: #084b86;
+    color: white;
+    border: none;
+    transition: 0.3s ease-in-out;
+    cursor: pointer;
+}
+button:hover{
+    transform: scale(1.1);
+}

@@ -1,0 +1,20 @@
+.title-desc{
+    color: aliceblue;
+    position: absolute;
+    top: 30%;
+    font-size: 500%;
+    width: 30%;
+}
+ul li{
+    list-style:decimal;
+    font-size:  250%;
+    margin-top: 5%;
+}
+.card-desc{
+    width: 50%;
+    position: relative;
+    left: 50%;
+    margin-top: 10%;
+    color: aliceblue;
+ 
+}
