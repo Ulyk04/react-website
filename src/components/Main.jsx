@@ -6,19 +6,19 @@ import Button from './Button'
 
 export const Main = () => {
   return (
-    <>
-    <article className="title">
-        <div className="title-1">
+    <div className="home-page">
+    <article className="title-main">
+        <div className="title-main-1">
             <h1>Mega Medya Zirvesi</h1>
         </div>
-        <div className="title-2">
+        <div className="title-main-2">
             <p>Medya katilimcilar icin kuresel konferans 8-10 Temmuz 2025</p>
         </div>
     </article>
-        <div className="btn-1">
+        <div className="btn-main-1">
             <Button to ="/about">Hemen katilin</Button>
         </div>
-    </>
+    </div>
   )
 }
 

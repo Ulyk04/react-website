@@ -4,11 +4,11 @@ import Button from './Button'
 
 export const Desc = () => {
   return (
-    <>
+    <div className='desc-page'>
         <article className="title-desc">
             <div className="small-title-desc">
                 <h1>
-                    Zirvenin onemli anlari
+                    Zirvenin onemli anlari  
                 </h1>
             </div>
         </article>
@@ -34,7 +34,7 @@ export const Desc = () => {
 
             </div>
         </article>
-    </>
+    </div>
   )
 }
 

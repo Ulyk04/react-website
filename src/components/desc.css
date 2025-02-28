@@ -1,3 +1,10 @@
+.desc-page{
+    margin: 0;
+    padding: 5%;
+    font-family: 'Cinzel' , serif;
+    background-color: #384d9b;
+    overflow-x: hidden;
+}
 .title-desc{
     color: aliceblue;
     position: absolute;
@@ -16,5 +23,4 @@ ul li{
     left: 50%;
     margin-top: 10%;
     color: aliceblue;
- 
 }

@@ -7,7 +7,7 @@ import Desc from './Desc'
 
 export const About = () => {
   return (
-    <>
+    <div className='about-page'>
       <article className="title-about">
         <div className="title-about-1">
           <h1>Simdiye def yapilan en buyuk zirvemiz</h1>
@@ -26,7 +26,7 @@ export const About = () => {
         <img src={People}  alt="" />
       </article>
 
-    </>
+    </div>
   )
 }
 
